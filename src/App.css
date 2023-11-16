@@ -59,6 +59,10 @@ h1 {
   cursor: pointer;
 }
 
+.todoList {
+  cursor: pointer;
+}
+
 .Todo {
   display: flex;
   justify-content: space-between;
